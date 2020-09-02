@@ -10,4 +10,4 @@ while counter1 < len(list):
             list[counter2] = temp
         counter2 = counter2 + 1
     counter1 = counter1 + 1
-    print(list)
+print(list)
